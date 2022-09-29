@@ -4,12 +4,12 @@ body {
         
    
 }
-
+.container{
+    width: 1280px;
+}
 
 main {
     display: flex;
-    width: 1092px;
-    height: 283px;
     justify-content: space-between;
     padding-right: 89px;
     padding-bottom: 157px;
