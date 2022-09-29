@@ -87,15 +87,14 @@ p span {
 }
 
 footer {
-    color: #FFFFFF;
+     color: #FFFFFF;
     font-family: 'JetBrains Mono', monospace;
     font-weight: medium;
     font-size: 14px;
     line-height: 28px;
     text-align: center;
-    margin: 0px 356px 23px 356px;
+    margin: o auto;
     width: 568px;
-    height: 0px;
     border-top: 1px solid #00bfa6;
 }
 
